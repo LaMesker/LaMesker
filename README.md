@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Development Projects:</h2>
 
-- <b>Java Game Projects</b>
+- <b>Java Projects</b>
 
-  - [blaz du truc](lien du truc)
+  - [Calculator](https://github.com/LaMesker/java-calculator.git)
   - 
 - <b>Python</b>
 
