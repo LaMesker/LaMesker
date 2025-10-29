@@ -9,6 +9,7 @@
 
 - <b>React JS</b>
   - [Saucer Game](https://github.com/LaMesker/saucer-game-JS/tree/main)
+  - [Task Manager](https://github.com/LaMesker/task-manager)
 
 <h2> 🤳 Connect with me:</h2>
 
