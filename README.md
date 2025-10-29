@@ -7,7 +7,8 @@
   - [Calculator](https://github.com/LaMesker/java-calculator.git)
   - [Othello game](https://github.com/LaMesker/othello-java/tree/main)
 
-- <b>Python</b>
+- <b>React JS</b>
+  - [Saucer Game](https://github.com/LaMesker/saucer-game-JS/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
