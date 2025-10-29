@@ -5,7 +5,8 @@
 - <b>Java Projects</b>
 
   - [Calculator](https://github.com/LaMesker/java-calculator.git)
-  - 
+  - [Othello game](https://github.com/LaMesker/othello-java/tree/main)
+
 - <b>Python</b>
 
 <h2> 🤳 Connect with me:</h2>
